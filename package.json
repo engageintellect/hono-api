@@ -6,8 +6,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hono/node-server": "^1.1.1",
     "hono": "^3.6.0",
+    "i": "^0.3.7",
     "next": "^13.4.0",
+    "npm": "^10.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
